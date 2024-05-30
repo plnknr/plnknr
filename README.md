@@ -6,7 +6,7 @@
 - 👨‍💻 Some of my projects are available at https://github.com/plnknr
 - 📫 How to reach me: pek2098@gmail.com
 
-  [![Pelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=plnknr&show_icons=true&theme=tokyonight)](https://github.com/plnknr/github-readme-stats)
+  [![Pelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=plnknr&show_icons=true&theme=radical)](https://github.com/plnknr/github-readme-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pelin-kanar/) 
